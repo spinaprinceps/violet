@@ -1,0 +1,103 @@
+h1{
+    color:white;
+}
+.container5{
+    display: flex;
+    gap:50px;
+}
+.imgs{
+    display: flex;
+    flex-direction: column;
+    width:540px;
+    height:600px;
+    gap:20px;
+    border: solid rgb(250, 234, 237);
+    border-radius: 30px;
+    padding:10px;
+    background-color: #F4976C;
+    margin-top: 5px;
+    
+    
+}
+
+.aihuman{
+    margin-top: 0%;
+}
+
+.enroll1{
+    width:100px;
+    height:30px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+    background-color:  #303C6C ;
+    color: aliceblue;
+    margin-bottom: 0%;
+}
+.props{
+    display: flex;
+    gap:20px;
+}
+.aibody{
+    display: flex;
+    gap:20px;
+    margin-top: 10px;
+
+}
+.subbox{
+    background-color:rgb(253, 230, 128);
+    width:540px;
+    height:190px;
+    border-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.badges{
+    width:500px;
+    height:250px;
+    border: solid rgb(250, 234, 237);
+    background-color: rgb(253, 230, 128);
+    border-radius: 30px;
+    margin-top:10px;
+    text-align: center;
+}
+.mentor{
+    width: 500px;
+    height:550px;
+    border: solid rgb(250, 234, 237);
+    background-color: #F4976C ;
+    border-radius: 30px;
+    margin-top: 20px;
+    text-align: center;
+ 
+}
+.maindiv{
+    margin-top: 50px;
+    margin-left: 5px;
+}
+.medal{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.men1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.men2{
+    display: flex;
+    margin-top: 40px;
+    gap:10px;
+    text-align: center;
+    justify-content: center;
+}
+.men3{
+    display: flex;
+    margin-top: 40px;
+    gap:10px;
+    text-align: center;
+    justify-content: center;
+}

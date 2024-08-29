@@ -1,0 +1,60 @@
+
+.holder{
+    display: flex;
+    border:solid;
+    justify-content: center;
+    align-items: center;
+    padding:40px;
+    background-color: #1f3340;
+  
+    border-color: rgb(9, 31, 49);
+    
+    
+}
+.program{
+    border: solid ;
+    border-radius: 10px;
+    text-align: center;
+    padding:15px;
+    background-color:#b56630;
+    border-color: brown;
+}
+.AI{
+    border: solid ;
+    border-radius: 10px;
+    text-align: center;
+    padding:15px;
+    background-color:#b56630;
+    border-color: brown;
+
+}
+.robo{
+    border: solid ;
+    border-radius: 10px;
+    text-align: center;
+    padding:15px;
+    background-color:#b56630;
+    border-color: brown;
+
+}
+.game{
+    border: solid ;
+    border-radius: 10px;
+    text-align: center;
+    padding:15px;
+    background-color:#b56630;
+    border-color: brown;
+
+}
+.AI_link{
+    text-decoration: none;
+    color: black;
+}
+.AI_link:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: blue;
+}
+.tech{
+    color: #B4DFE5;
+}

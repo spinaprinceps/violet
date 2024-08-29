@@ -1,0 +1,187 @@
+h4.video-title {
+    background-color: #f8bf05;
+    text-align: center;
+    border-radius: 50px;
+}
+
+#interest-pic-1, #interest-pic-2, #interest-pic-3, #interest-pic-4 {
+    background-color: #D2FDFF;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 20px;
+}
+
+#alignment-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows wrapping to a new line if space runs out */
+    justify-content: space-between; /* Adjusts spacing between items */
+}
+
+#alignment-container > div {
+    flex: 1; /* Distributes space equally among the children */
+    margin: 10px; /* Adds margin between the boxes */
+}
+
+#experience-box {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 25px;
+    background-color: #e0e664;
+    color: black;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#counselor-box {
+    text-align: center;
+    background-color: #e87e38;
+    border-radius: 25px;
+}
+
+#right-box {
+    background-color: #F4976C;
+    border-radius: 15px;
+    margin: 25px;
+    text-align: center;
+    color: white;
+}
+
+.background-light {
+    background-color: #D2FDFF;
+}
+
+.background-medium {
+    background-color: rgb(133, 222, 222);
+    color: black;
+}
+
+.font-sans {
+    font-family: sans-serif;
+}
+
+.font-small {
+    font-family: Small;
+}
+
+.font-normal {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#per1 {
+    border-right: 25%;
+}
+
+#left-box {
+    background-color: #B4DFE5;
+    padding: 15px;
+    border-radius: 25px;
+    margin: 25px;
+}
+
+.tech-box {
+    background-color: #303C6C;
+    border-radius: 15px;
+    padding: 3px;
+    border: 15px;
+}
+
+.data-text {
+    color: white;
+}
+
+.dr-box {
+    background-color: #F4976C;
+    padding-top: 15px;
+}
+
+.dr1-box {
+    background-color: #FBE8A6;
+    border-radius: 15px;
+    padding-left: 15px;
+}
+
+#te {
+    margin: 5px;
+}
+
+.na1-box, .na2-box, .na3-box {
+    background-color: #303C6C;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    padding: 5px;
+    margin-right: 600px;
+    color: white;
+}
+
+.su {
+    justify-content: flex-end;
+}
+
+#pic {
+    margin: 20px;
+}
+
+#box {
+    background-color: #94dfe9;
+    margin: 20px;
+    padding: 20px;
+}
+
+#mb {
+    background-color: grey;
+}
+
+.heading-title {
+    font-family: cursive;
+    margin: 20px;
+}
+
+.video-title {
+    padding: 50px;
+    background-color: rgba(163, 205, 199, 0.753);
+}
+
+.fed {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 40px;
+    background-color: white;
+    text-align: left;
+}
+
+.nam {
+    background-color: white;
+    text-align: left;
+}
+
+#rec {
+    margin: 30px;
+}
+
+#red {
+    margin: 20px;
+}
+
+.button-margin, .submit-margin {
+    margin-left: 50px;
+}
+
+#comment {
+    margin: 20px;
+    margin-left: 50px;
+    margin-right: 400px;
+}
+
+#submit-button {
+    margin: 20px;
+    margin-left: 500px;
+}
+
+#resource-box, #quiz-box {
+    text-align: center;
+    border-radius: 15px;
+    margin: 20px;
+    background-color: #ebf270;
+    padding: 50px;
+}

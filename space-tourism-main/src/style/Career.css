@@ -1,0 +1,152 @@
+h1{
+    color:white;
+}
+
+
+.minus{
+    display:flex;
+    gap:10px;
+    margin-top: 30px;
+
+}
+.maindiv1{
+width:35vw;
+height:98vh;
+border: solid;
+background-color: #FBE8A6;
+}
+.maindiv2{
+width:35vw;
+height:98vh;
+border: solid;
+background-color:#F4976C
+;
+
+}
+ul{
+    text-align: start;
+}
+h4{
+    text-align: start;
+}
+.SUBDIV1{
+    justify-content: center;
+    align-items: center;
+    width: 32VW;
+    height: 9vh;
+    margin-left: 20px;
+    border:solid  #FBE8A6 ;
+    background-color: #FBE8A6;
+}
+.SUBDIV2{
+    justify-content: center;
+    align-items: center;
+    width: 32VW;
+    height: 9vh;
+    margin-left: 20px;
+    border:solid  #FBE8A6 ;
+    background-color: #FBE8A6;
+    margin-top: 10px;
+}
+.SUBDIV3{
+    justify-content: center;
+    align-items: center;
+    width: 32VW;
+    height: 9vh;
+    margin-left: 20px;
+    border:solid  #FBE8A6 ;
+    background-color: #FBE8A6;
+    margin-top: 10px;
+}
+.SUBDIV4{
+    justify-content: center;
+    align-items: center;
+    width: 32VW;
+    height: 9vh;
+    margin-left: 20px;
+    border:solid  #FBE8A6 ;
+    background-color: #FBE8A6;
+    margin-top: 10px;
+}
+.SUBDIV5{
+    justify-content: center;
+    align-items: center;
+    width: 32VW;
+    height: 9vh;
+    margin-left: 20px;
+    border:solid  #FBE8A6 ;
+    background-color: #FBE8A6;
+    margin-top: 10px;
+}
+.SUBDIV6{
+    justify-content: center;
+    align-items: center;
+    width: 32VW;
+    height: 9vh;
+    margin-left: 20px;
+    border:solid  #FBE8A6 ;
+    background-color: #FBE8A6;
+    margin-top: 10px;
+}
+.SUBDIV7{
+    justify-content: center;
+    align-items: center;
+    width: 32VW;
+    height: 9vh;
+    margin-left: 20px;
+    border:solid  #FBE8A6 ;
+    background-color: #FBE8A6;
+    margin-top: 10px;
+}
+.SUBDIV8{
+    justify-content: center;
+    align-items: center;
+    width: 32VW;
+    height: 9vh;
+    margin-left: 20px;
+    border:solid  #FBE8A6 ;
+    background-color: #FBE8A6;
+    margin-top: 10px;
+}
+#lft{
+    background-color: #303C6C;
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+
+.lb{
+    background-color: #B4DFE5;
+    padding: 20px;
+    margin: 20px;
+}
+
+#rgt{
+    margin: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #F4976C;
+
+}
+
+.rb{
+    background-color: #FBE8A6;
+    padding: 20px;
+    margin: 5px;
+}
+
+#rd{
+    background-color: #B4DFE5;
+    padding: 100px;
+}
+
+.bla{
+    color: black;
+}
+
+.lb{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
